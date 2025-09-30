@@ -9,9 +9,3 @@ A simple and user-friendly app to help you track your daily expenses, categorize
 - ✅ View spending summaries by day, week, or month    
 - ✅ Filter expenses by date or category  
 
-## ▶️ How to Run
-
-1. Clone or download this repository
-2. Open the file `Expense Tracker_Giska.ipynb` using Jupyter Notebook
-3. Run the notebook cell by cell
-4. Use the provided input forms to enter expenses and view summaries
